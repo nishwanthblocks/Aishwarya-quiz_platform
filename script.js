@@ -81,7 +81,7 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'My favourite hero',
+    question: 'My favourite Hero',
     answers: [
       { text: 'Yash', correct: true },
       { text: 'Sudeep', correct: false },
