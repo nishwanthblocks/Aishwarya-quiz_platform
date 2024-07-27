@@ -81,39 +81,39 @@ function clearStatusClass(element) {
 
 const questions = [
   {
-    question: 'What is the largest planet in our solar system?',
+    question: 'My favourite hero',
     answers: [
-      { text: 'Jupiter', correct: true },
-      { text: 'Saturn', correct: false },
-      { text: 'Uranus', correct: false},
-      {text: 'Earth', correct: false}
+      { text: 'Yash', correct: true },
+      { text: 'Sudeep', correct: false },
+      { text: 'Puneeth', correct: false},
+      {text: 'Dr. Vishnuvardhan ', correct: false}
     ]
   },
   {
-    question: 'What is the chemical symbol for water?',
+    question: 'My favourite breakfast',
     answers: [
-      { text: 'H20', correct: true },
-      { text: 'H2SO4', correct: false },
-      { text: 'CO2', correct: false },
+      { text: 'Masala Dosa', correct: true },
+      { text: 'Idli', correct: false },
+      { text: 'Puri', correct: false },
       { text: 'None of the above', correct: false }
     ]
   },
   {
-    question: 'Which ocean is the largest and deepest on Earth?',
+    question: 'My favourite colour',
     answers: [
-      { text: 'Pacific Ocean', correct: true },
-      { text: 'Arctic Ocean', correct: false},
-      { text: 'Indian Ocean', correct: false },
-      { text: 'Southern Ocean', correct: false }
+      { text: 'Black and Blue', correct: true },
+      { text: 'Black', correct: false},
+      { text: 'Pink', correct: false },
+      { text: 'Blue', correct: false }
     ]
   },
   {
-    question: 'What is the hardest natural substance on Earth?',
+    question: 'My favourite sweet',
     answers: [
-      { text: 'Diamond', correct: true },
-      { text: 'Gold', correct: false },
-      { text: 'Silver', correct: false },
-      { text: 'Iron', correct: false }
+      { text: 'Laddu', correct: true },
+      { text: 'Peda', correct: false },
+      { text: 'Barfi', correct: false },
+      { text: 'Neenge yak bek adhu', correct: false }
     ]
   }
 ]
